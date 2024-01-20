@@ -1,0 +1,511 @@
+* {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    margin-top: 0%;
+
+
+}
+
+.topfirst-header {
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.header-opening {
+    display: flex;
+    flex-direction: column;
+
+    background-color: black;
+    background: transparent;
+
+    height: 650px;
+    border-style: solid;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    background: transparent;
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("https://assets.nflxext.com/ffe/siteui/vlv3/16006346-87f9-4226-bc25-a1fb346a2b0c/5b3628f7-1780-442f-8f63-3bbe11e7f91d/KE-en-20240115-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+   background-size: cover;
+   background-position: center;
+   
+   
+   
+
+}
+
+.netflix-logo {
+
+
+    width: 50px;
+    margin-top: 0;
+    padding-left: 120px;
+
+}
+
+.signIn-btn {
+
+    display: flex;
+    width: 60px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    align-items: center;
+    padding-left: 10px;
+    border-radius: 5px;
+    margin-left: 1110px;
+    margin-top: 25px;
+
+    >a {
+        color: white;
+        text-decoration: none;
+    }
+
+
+
+}
+
+.topfirst-header {
+
+
+    margin-top: 10px;
+    background: transparent;
+    width: 100%;
+
+
+
+}
+
+.innertop-header {
+    display: flex;
+    flex-direction: column;
+background: transparent;
+    background-color: blue;
+    background: transparent;
+    width: 50%;
+    height: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+
+
+
+
+
+    >p {
+        color: white;
+    }
+}
+
+.unlimited-paragraph{
+
+    color: white;
+    font-size: 40px;
+    font-weight: 900px;
+    text-align: left;
+    background-color: black;
+    background: transparent;
+    height: 80px;
+    
+    font-style: normal;
+    font-family: 'Noto Sans', sans-serif;
+    
+
+}
+
+.watch-paragraph{
+background: transparent;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400px;
+    background-color: red;
+    background: transparent;
+    height: 40px;
+    padding-top: 0px;
+}
+
+.rewatch-paragraph{
+background: transparent;
+    color: white;
+    text-align: center;
+    padding-top: 6px;
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 30px;
+    background-color:brown;
+    background: transparent;
+}
+
+.details-box{
+
+    display: flex;
+    flex-direction: row;
+    background-color: violet;
+    background: transparent;
+    margin-top: 80px;
+    align-items: center;
+    
+
+}
+
+.email-box{
+
+    color: white;
+    font-size: 16px;
+    font-weight: 400px;
+    background-color: aqua;
+    background: transparent;
+    text-align: center;
+    padding-top: 20px;
+    width: 400px;
+    border-style: solid;
+    border-color: white;
+
+}
+
+.start-btn{
+
+    color: white;
+    font-size: 16px;
+    font-weight: 400px;
+    background-color: red;
+    text-align: center;
+    padding-top: 20px;
+    width: 400px;
+    border-radius: 5px;
+    height: 50px;
+    margin-left: 10px;
+
+    >a{
+        color: white;
+        text-decoration: none;
+        font-size: 26px;
+        font-weight: 400px;
+    
+    }
+
+}
+
+.firstfeature{
+    display: flex;
+    flex-direction: row;
+
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    padding-left: 170px;
+    padding-right: 160px;
+    padding-top: 40px;
+    border-top: 6px solid#333;
+    
+    border-width: 7px;
+    
+
+    
+}
+
+.enjoy-text{
+
+    color: white;
+    padding-top: 170px;
+}
+
+.secondfeature{
+
+
+    display: flex;
+    flex-direction: row;
+
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    padding-left: 170px;
+    padding-right: 160px;
+    padding-top: 40px;
+    border-top: 6px solid#333;
+    
+    border-width: 7px;
+}
+
+.download-text{
+
+    padding-top: 170px;
+}
+
+.thirdfeature{
+
+    display: flex;
+    flex-direction: row;
+
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    padding-left: 170px;
+    padding-right: 160px;
+    padding-top: 40px;
+    border-top: 6px solid#333;
+    border-width: 7px;
+
+}
+
+.watch-text{
+    padding-top: 170px;
+}
+
+.fourthfeature{
+
+    display: flex;
+    flex-direction: row;
+
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    padding-left: 170px;
+    padding-right: 160px;
+    padding-top: 40px;
+    border-top: 6px solid#333;
+    border-width: 7px;
+}
+
+.create-text{
+    padding-top: 170px;
+}
+
+.detailslast-box{
+
+    display: flex;
+    flex-direction: row;
+    background-color: violet;
+    background: transparent;
+    margin-top: 0px;
+    align-items: center;
+    margin-left: 220px;
+    margin-bottom: 60px;
+
+    
+
+}
+
+.emaillast-box{
+
+    color: white;
+    font-size: 16px;
+    font-weight: 400px;
+    background-color: aqua;
+    background: transparent;
+    text-align: center;
+    padding-top: 20px;
+    width: 400px;
+    border-style: solid;
+    border-color: white;
+
+}
+
+.startlast-btn{
+
+    color: white;
+    font-size: 16px;
+    font-weight: 400px;
+    background-color: red;
+    text-align: center;
+    padding-top: 20px;
+    width: 400px;
+    border-radius: 5px;
+    height: 50px;
+   margin-left: 10px;
+
+    >a{
+        color: white;
+        text-decoration: none;
+        font-size: 26px;
+        font-weight: 400px;
+    
+    }
+
+}
+
+
+
+.faq{
+
+    display: flex;
+    flex-direction: column;
+text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    padding-left: 170px;
+    padding-right: 160px;
+    padding-top: 40px;
+    border-top: 6px solid#333;
+    border-width: 7px;
+}
+
+.first{
+
+    background-color: rgb(48, 47, 47);
+    color: white;
+    font-size: 25px;
+    height: 50px;
+    text-align: start;
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+.second{
+
+
+    background-color: rgb(48, 47, 47);
+    color: white;
+    font-size: 25px;
+    height: 50px;
+    text-align: start;
+    padding-top: 30px;
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+.third{
+
+    background-color: rgb(48, 47, 47);
+    color: white;
+    font-size: 25px;
+    height: 50px;
+    text-align: start;
+    padding-top: 30px;
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+.fourth{
+
+    background-color: rgb(48, 47, 47);
+    color: white;
+    font-size: 25px;
+    height: 50px;
+    text-align: start;
+    padding-top: 30px;
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+.fifth{
+
+    background-color: rgb(48, 47, 47);
+    color: white;
+    font-size: 25px;
+    height: 50px;
+    text-align: start;
+    padding-top: 30px;
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+.sixth{
+    background-color: rgb(48, 47, 47);
+    color: white;
+    font-size: 25px;
+    height: 50px;
+    text-align: start;
+    padding-top: 30px;
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+
+
+
+.footerborder{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    padding-left: 170px;
+    padding-right: 160px;
+    padding-top: 40px;
+    border-top: 6px solid#333;
+    border-width: 7px;
+    
+    
+}
+
+.footerfirst{
+    display: flex;
+    flex-direction: column;
+    row-gap: 14px;
+    font-size: 13px;
+    >a{
+        color: white;
+        text-decoration: underline;
+        
+    }
+}
+
+.lang-box{
+
+
+    background-color: black;
+    border-color: white;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    padding-top: 4px;
+
+}
+
+.footersecond{
+    display: flex;
+    flex-direction: column;
+    row-gap: 14px;
+    margin-top: 35px;
+    margin-left: 150px;
+    font-size: 13px;
+
+    
+    >a{
+        color: white;
+        text-decoration: underline;
+        
+    }
+
+}
+
+.footerthird{
+    display: flex;
+    flex-direction: column;
+    row-gap: 14px;
+    margin-top: 35px;
+    margin-left: 150px;
+    font-size: 13px;
+
+    >a{
+
+    color:white;
+    text-decoration: underline;
+    }
+
+}
+
+.footerfourth{
+    display: flex;
+    flex-direction: column;
+    row-gap: 14px;
+    margin-top: 35px;
+    margin-left: 150px;
+    font-size: 13px;
+
+
+    >a{
+
+    color:white;
+    font-weight: 20px;
+    text-decoration: underline;
+    }
+
+}
+    
